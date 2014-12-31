@@ -1,5 +1,5 @@
 var client_id = "239b337b6bb34dc8968801e8646aaa5f";
-var client_callback = "http://localhost:8000/callback.html";
+var client_callback = "http://cqql.github.com/plchck/callback.html";
 
 var Client = function (token) {
   this.token = token;
